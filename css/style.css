@@ -35,7 +35,7 @@ body {
     height: calc(100vh / 3);
     background-position: center;
     background-size: cover;
-    font-size: calc(1em + 4vw);
+    font-size: calc(1em + 3vw);
     font-weight: bold;
     text-align: center;
     box-sizing: border-box;
