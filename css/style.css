@@ -52,7 +52,7 @@ body {
 }
 
 #menu a span:hover {
-    transition: .5 ease-in-out;
+    transition: background-color 0.5s ease-in-out;
     background-color: rgba(255, 255, 255, 1);
     padding: 10px;
     border-radius: 5px;
