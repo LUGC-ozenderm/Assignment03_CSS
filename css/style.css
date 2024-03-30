@@ -146,6 +146,11 @@ footer {
     overflow-x: auto;
 }
 
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
 .company-info,
 .contact-form,
 .citations{
